@@ -1,0 +1,3 @@
+/home/hussain/computer_vision/CourseWork/Homework4/build/CMakeFiles/colors.dir
+/home/hussain/computer_vision/CourseWork/Homework4/build/CMakeFiles/edit_cache.dir
+/home/hussain/computer_vision/CourseWork/Homework4/build/CMakeFiles/rebuild_cache.dir
